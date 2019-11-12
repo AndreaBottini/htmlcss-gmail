@@ -1,0 +1,108 @@
+body {
+  background-image: url(https://www.yourgazebo.com/blog/wp-content/uploads/2018/02/legno.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header {
+/*  background: red */
+}
+
+.margini-header {
+  width: 900px;
+  margin: auto;
+}
+
+.header-superiore {
+/*  background: blue; */
+  line-height: 80px;
+  height:80px;
+}
+
+.header-corpo {
+/*  background: yellow */;
+}
+
+.logo {
+  height: 70px;
+  vertical-align: middle;
+
+}
+.titolo-logo {
+  display: inline;
+  color: #ffffff;
+  font-size: 25px;
+}
+
+.button-search {
+  border-radius: 4px;
+}
+
+.margini-main {
+  width: 900px;
+  margin: auto;
+}
+
+.email-nonlette {color: white;
+ }
+
+.trenta {
+  display: inline-block;
+  height: 40px;
+  width: 40px;
+  background: #ffa500;
+  vertical-align: middle;
+  line-height: 40px;
+  text-align: center;
+  border-radius: 150px;
+  padding: 7px;
+}
+
+.singlemail p {
+  display: inline;
+}
+
+.singlemail-read p {
+  display: inline;
+}
+
+.singlemail {
+  background-color: lightgrey;
+  border: 1px solid black;
+  padding: 2px;
+}
+
+.anteprima-messaggi {
+  background-color: #ffffff;
+  border:1px solid black;
+  font-style: oblique;
+  padding: 3px;
+}
+
+.singlemail-read {
+  background-color: #ffffff;
+  border: 1px solid black;
+  padding: 2px;
+}
+
+.crediti {
+  color: white;
+  text-align: center;
+  font-size: 25px;
+}
+
+.powered {
+  color: white;
+  text-align: center;
+  font-size: 15px;
+  font-style: italic;
+}
+
+.immagineboolean {
+  text-align: center;
+}
+
+.marigini-footer2 {
+  width: 900px;
+  margin: auto;
+}
